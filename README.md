@@ -46,4 +46,10 @@ This repository presents a dataset which consists of PCE measurements of 5 OSC d
 
 ## Software
 
+In this work, different ML models are analysed to encode the PCE performance of polymeric OSCs based on ITO/PEDOT:PSS/P3HT:PCBM/Al multilayers. [ROBERT](https://github.com/jvalegre/robert/releases) (v1.0.6)
+
+Documentation about ROBERT program can be found at https://robert.readthedocs.io/en/latest/index.html
+
 ## ROBERT reports
+ROBERT 
+
