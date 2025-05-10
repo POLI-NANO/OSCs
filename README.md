@@ -9,14 +9,12 @@ This repository contains the implementation of the following paper:
 
 ## Authors
 
-| Name         | Email addresses | affiliation  |
+| Name         | Email address | affiliation  |
 |--------------|-----------------|--------------|
 |David Valiente|dvaliente@umh.es|University Institute for Engineering Research and Communications Engineering Department, Miguel Hernandez University|
 |Fernando Rodríguez-Mas|fernando.rodriguezm@umh.es|Communications Engineering Department, Miguel Hernandez University|
-|Juan Vicente Alegre-Requena|jv.alegre@csic.es|Department of Inorganic Chemistry, Institute of Chemical Synthesis and Homogeneous Catalysis (ISQCH), CSIC, 
-  University of Zaragoza|
-|David Dalmau|ddalmau@unizar.es|Department of Inorganic Chemistry, Institute of Chemical Synthesis and Homogeneous Catalysis (ISQCH), CSIC, 
-  University of Zaragoza|
+|Juan Vicente Alegre-Requena|jv.alegre@csic.es|Department of Inorganic Chemistry, Institute of Chemical Synthesis and Homogeneous Catalysis (ISQCH), CSIC, University of Zaragoza|
+|David Dalmau|ddalmau@unizar.es|Department of Inorganic Chemistry, Institute of Chemical Synthesis and Homogeneous Catalysis (ISQCH), CSIC, University of Zaragoza|
 |María Flores|m.flores@umh.es|University Institute for Engineering Research, Miguel Hernandez University|
 |Juan Carlos Ferrer|jc.ferrer@umh.es|University Institute for Engineering Research, Miguel Hernandez University|
 
