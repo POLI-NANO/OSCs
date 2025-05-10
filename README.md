@@ -57,4 +57,11 @@ If you find this work useful, please consider citing:
       url={https://arxiv.org/abs/2404.00173}, 
 }
 ```
-
+```
+@misc{valiente2025comparinghyperoptimizedmachinelearning,
+      title={General Machine Learning Models for Interpreting and Predicting Efficiency Degradation in Organic Solar Cells}, 
+      author={Valiente, David and Rodríguez-Mas, Fernando and Alegre-Requena, Juan Vicente and Dalmau, David and Flores, María and Ferrer, Juan Carlos},
+      year={2025},
+      url={http://dx.doi.org/10.2139/ssrn.5147681}, 
+}
+```
