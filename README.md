@@ -47,21 +47,23 @@ ROBERT
 ## Citation
 If you find this work useful, please consider citing:
 ```
-@misc{valiente2025comparinghyperoptimizedmachinelearning,
-      title={Comparing Hyper-optimized Machine Learning Models for Predicting Efficiency Degradation in Organic Solar Cells}, 
-      author={David Valiente and Fernando Rodríguez-Mas and Juan V. Alegre-Requena and David Dalmau and María Flores and Juan C. Ferrer},
-      year={2025},
-      eprint={2404.00173},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2404.00173}, 
+@misc{valiente_comparing_2025,
+	title = {Comparing {Hyper}-optimized {Machine} {Learning} {Models} for {Predicting} {Efficiency} {Degradation} in {Organic} {Solar} {Cells}},
+	url = {http://arxiv.org/abs/2404.00173},
+	doi = {10.48550/arXiv.2404.00173},
+	publisher = {arXiv},
+	author = {Valiente, David and Rodríguez-Mas, Fernando and Alegre-Requena, Juan V. and Dalmau, David and Flores, María and Ferrer, Juan C.},
+	month = may,
+	year = {2025},
 }
 ```
 ```
-@misc{valiente2025generalmachinelearningmodels,
-      title={General Machine Learning Models for Interpreting and Predicting Efficiency Degradation in Organic Solar Cells}, 
-      author={Valiente, David and Rodríguez-Mas, Fernando and Alegre-Requena, Juan Vicente and Dalmau, David and Flores, María and Ferrer, Juan Carlos},
-      year={2025},
-      url={http://dx.doi.org/10.2139/ssrn.5147681}, 
+@misc{valiente_general_2025,
+	title = {General {Machine} {Learning} {Models} for {Interpreting} and {Predicting} {Efficiency} {Degradation} in {Organic} {Solar} {Cells}},
+	url = {https://papers.ssrn.com/abstract=5147681},
+	doi = {10.2139/ssrn.5147681},
+	author = {Valiente, David and Rodríguez-Mas, Fernando and Alegre-Requena, Juan Vicente and Dalmau, David and Flores, María and Ferrer, Juan Carlos},
+	month = feb,
+	year = {2025},
 }
 ```
