@@ -1,36 +1,25 @@
 # General Machine Learning Models for Interpreting and Predicting Efficiency Degradation in Organic Solar Cells
 This repository contains the implementation of the following paper:
 
-
 **Paper on arxiv:** [2404.00173](https://arxiv.org/abs/2404.00173)
 
 **Paper on SSRN:** [10.2139/ssrn.5147681](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5147681)
 
 
 
-**Authors:** 
+## Authors
 
-  David Valiente $^a$ $^b$ [dvaliente@umh.es]
-  
-  Fernando Rodríguez-Mas $^b$ [fernando.rodriguezm@umh.es]
-  
-  Juan Vicente Alegre-Requena $^c$ [jv.alegre@csic.es]
-  
-  David Dalmau $^c$ [ddalmau@unizar.es]
-  
-  María Flores $^a$  [m.flores@umh.es]
-  
-  Juan Carlos Ferrer $^a$ [jc.ferrer@umh.es]
+| Name         | Email addresses | affiliation  |
+|--------------|-----------------|--------------|
+|David Valiente|dvaliente@umh.es|University Institute for Engineering Research and Communications Engineering Department, Miguel Hernandez University|
+|Fernando Rodríguez-Mas|fernando.rodriguezm@umh.es|Communications Engineering Department, Miguel Hernandez University|
+|Juan Vicente Alegre-Requena|jv.alegre@csic.es|Department of Inorganic Chemistry, Institute of Chemical Synthesis and Homogeneous Catalysis (ISQCH), CSIC, 
+  University of Zaragoza|
+|David Dalmau|ddalmau@unizar.es|Department of Inorganic Chemistry, Institute of Chemical Synthesis and Homogeneous Catalysis (ISQCH), CSIC, 
+  University of Zaragoza|
+|María Flores|m.flores@umh.es|University Institute for Engineering Research, Miguel Hernandez University|
+|Juan Carlos Ferrer|jc.ferrer@umh.es|University Institute for Engineering Research, Miguel Hernandez University|
 
-
-  $^a$ University Institute for Engineering Research, Miguel Hernandez University, Avenida de la Universidad, s/n, 
-  Elche, 03202, Spain
-
-  $^b$ Communications Engineering Department, Miguel Hernandez University, Avenida de la Universidad, s/n, Elche, 
-  03202, Spain
-
-  $^c$ Department of Inorganic Chemistry, Institute of Chemical Synthesis and Homogeneous Catalysis (ISQCH), CSIC, 
-  University of Zaragoza, Pedro Cerbuna 12, Zaragoza, 50009, Spain
 
 ## Abstract
 
