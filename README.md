@@ -5,6 +5,8 @@
 
 **SSRN:** [10.2139/ssrn.5147681](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5147681)
 
+
+
 **Authors:** 
 
   David Valiente $^a$ $^b$ [dvaliente@umh.es]
@@ -52,4 +54,19 @@ Documentation about ROBERT program can be found at https://robert.readthedocs.io
 
 ## ROBERT reports
 ROBERT 
+
+
+## Citation
+If you find this work useful, please consider citing:
+```
+@misc{valiente2025comparinghyperoptimizedmachinelearning,
+      title={Comparing Hyper-optimized Machine Learning Models for Predicting Efficiency Degradation in Organic Solar Cells}, 
+      author={David Valiente and Fernando Rodríguez-Mas and Juan V. Alegre-Requena and David Dalmau and María Flores and Juan C. Ferrer},
+      year={2025},
+      eprint={2404.00173},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2404.00173}, 
+}
+```
 
