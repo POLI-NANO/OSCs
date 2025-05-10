@@ -27,6 +27,22 @@ Photovoltaic (PV) energy plays a key role in addressing the growing global energ
 ## Datasets 
 This repository presents a dataset which consists of PCE measurements of 5 OSC devices. For this dataset, up to 7 variables were registered for more than 180 days.
 
+Manufacturing variables and environmental conditions at laboratory.
+
+| Variables | Values| 
+|--------------|-------------|
+|solvent quantity HTL (PEDOT:PSS) [μl] | [250-1000] |
+|P3HT [mg] | [1-1.2] |
+|PCBM [mg] | [0.8-1] |
+|Volume ratio P3HT:PCBM | [1-1.25] |
+|Temperature | [ ̋C] [12-23] |
+|Hummidity [%]|  [33-88] |
+|Dew point [ ̋C] | [3-19] |
+|Pressure [hPa] | [997-1022] |
+|Time [days] | [0-181] |
+
+### CSV files
+
 | Name         | Description |
 |--------------|-------------|
 | [data_180_days_all_cells](dataset/data_180_days_all_cells.csv) | Celda 1,2   |
