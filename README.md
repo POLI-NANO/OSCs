@@ -52,13 +52,13 @@ Manufacturing variables and environmental conditions at laboratory.
 
 ## Software
 
-In this work, different ML models are analysed to encode the PCE performance of polymeric OSCs based on ITO/PEDOT:PSS/P3HT:PCBM/Al multilayers. [ROBERT](https://github.com/jvalegre/robert/releases) (v1.0.6)
+In this work, different ML models are analysed to encode the PCE performance of polymeric OSCs based on ITO/PEDOT:PSS/P3HT:PCBM/Al multilayers. This objective has been achieved by using [ROBERT](https://robert.readthedocs.io/en/latest/index.html). This software framework developed under Python automates data curation, screening of ML models, assessment of predictive ability, and feature analysis. 
 
-Documentation about ROBERT program can be found at https://robert.readthedocs.io/en/latest/index.html
+For more detailed information about ROBERT program, please refer to https://robert.readthedocs.io/en/latest/index.html
 
 ## ROBERT reports
-ROBERT 
 
+This repository provides the reports obtained with [ROBERT](https://github.com/jvalegre/robert/releases) (v1.0.6) after modeling the entire database.
 
 ## Citation
 If you find this work useful, please consider citing:
