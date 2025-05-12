@@ -43,6 +43,7 @@ Manufacturing variables and environmental conditions at laboratory.
 |Time [days] | [0-181] |
 
 ### Available files
+The acquired data are provided in CSV files. 
 
 | Name         | Description | Number of entries |
 |--------------|-------------|-------------|
@@ -50,6 +51,10 @@ Manufacturing variables and environmental conditions at laboratory.
 | [data_180_days_no_C4](dataset/data_180_days_no_C4.csv) | without data of cell 4  | 129 |
 | [predict_C4_not_seen](dataset/predict_C4_not_seen.csv)| only data of cell 4 | 20 |
 
+The files contains the following header row to indicate the names of the eleven fields provided for each entry:
+```
+index; PCE; quantity DS HTL; ratio P3HT:PCBM; P3HT; PCBM; temperature; dew point; hummidity; pressure; time
+```
 
 ## Software
 
