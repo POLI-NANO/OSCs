@@ -27,6 +27,7 @@ Photovoltaic (PV) energy plays a key role in addressing the growing global energ
 ## Datasets 
 This repository presents a dataset which consists of PCE measurements of 5 OSC devices. For this dataset, up to 7 variables were registered for more than 180 days.
 
+### Details
 Manufacturing variables and environmental conditions at laboratory.
 
 | Variables | Values| 
@@ -41,13 +42,13 @@ Manufacturing variables and environmental conditions at laboratory.
 |Pressure [hPa] | [997-1022] |
 |Time [days] | [0-181] |
 
-### CSV files
+### Available files
 
-| Name         | Description |
-|--------------|-------------|
-| [data_180_days_all_cells](dataset/data_180_days_all_cells.csv) | Celda 1,2   |
-| [data_180_days_no_C4](dataset/data_180_days_no_C4.csv) | Celda 2,2   |
-| [predict_C4_not_seen](dataset/predict_C4_not_seen.csv)| Celda 2,2   |
+| Name         | Description | Number of entries |
+|--------------|-------------|-------------|
+| [data_180_days_all_cells](dataset/data_180_days_all_cells.csv) | all cells   | 166 |
+| [data_180_days_no_C4](dataset/data_180_days_no_C4.csv) | without data of cell 4  | 129 |
+| [predict_C4_not_seen](dataset/predict_C4_not_seen.csv)| only data of cell 4 | 20 |
 
 
 ## Software
