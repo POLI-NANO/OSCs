@@ -1,5 +1,5 @@
 # General Machine Learning Models for Interpreting and Predicting Efficiency Degradation in Organic Solar Cells
-This repository contains the implementation of the following paper:
+This repository contains the implementation of the following preprints:
 
 **Paper on arxiv:** [2404.00173](https://arxiv.org/abs/2404.00173)
 
