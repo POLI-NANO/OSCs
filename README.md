@@ -66,7 +66,7 @@ For more detailed information about ROBERT program, please refer to https://robe
 ## ROBERT reports
 
 This repository provides the reports obtained with [ROBERT](https://github.com/jvalegre/robert/releases) (v1.0.6) after modeling the entire database.
-These are located in the "[ROBERT reports](dataset/ROBERT reports) " folder of this repository. 
+These are located in the [ROBERT reports](dataset/ROBERT reports) folder of this repository. 
 
 ## Citation
 If you find this work useful, please consider citing:
