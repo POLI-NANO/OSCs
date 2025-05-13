@@ -30,17 +30,18 @@ This repository presents a dataset which consists of PCE measurements of 5 OSC d
 ### Details
 Manufacturing variables and environmental conditions at laboratory.
 
-| Variables | Values| 
+| Variables | Values [min-max] | std | 
 |--------------|-------------|
-|solvent quantity HTL (PEDOT:PSS) [μl] | [250-1000] |
-|P3HT [mg] | [1-1.2] |
-|PCBM [mg] | [0.8-1] |
-|Volume ratio P3HT:PCBM | [1-1.25] |
-|Temperature | [ ̋C] [12-23] |
-|Hummidity [%]|  [33-88] |
-|Dew point [ ̋C] | [3-19] |
-|Pressure [hPa] | [997-1022] |
-|Time [days] | [0-181] |
+|PCE| [0.27-1.32] % | 0.25 |
+|quantity DS HTL| [250-1000] μl | 0.19|
+|P3HT | [1-1.2] mg | 0.07|
+|PCBM | [0.8-1] mg | 0.07|
+|ratio P3HT:PCBM | [1-1.25] -| 0.09|
+|Temperature | [12-23] °C | 2.81 |
+|Hummidity | [33-88] % | 17.78|
+|Dew point | [3-19] % | 3.99|
+|Pressure | [997-1022] hPa | 7.25|
+|Time |  [0-181] days |  60.21|
 
 ### Available files
 The acquired data are provided in CSV files. 
