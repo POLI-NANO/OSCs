@@ -31,7 +31,7 @@ This repository presents a dataset which consists of PCE measurements of 5 OSC d
 Manufacturing variables and environmental conditions at laboratory.
 
 | Variables | Values [min-max] | std | 
-|--------------|-------------|
+|--------------|-------------|------|
 |PCE| [0.27-1.32] % | 0.25 |
 |quantity DS HTL| [250-1000] μl | 0.19|
 |P3HT | [1-1.2] mg | 0.07|
